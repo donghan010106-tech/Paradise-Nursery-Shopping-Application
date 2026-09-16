@@ -1,2 +1,2 @@
 # Paradise Nursery Shopping Application
-Đây là dự án hoàn thành khóa học React của tôi.
+This is the final project for the React course, implementing an e-commerce shopping cart application for houseplants.
